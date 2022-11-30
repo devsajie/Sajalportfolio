@@ -233,7 +233,7 @@ ul {
 @media screen and (max-width: 600px) {
     ul{
         position: absolute;
-        margin-top: 400px;
+        margin-top: 500px;
         margin-left: 50px;
     }
 }
