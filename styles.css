@@ -180,6 +180,7 @@ header .sajal_brand .name .logo-img {
 }
 
 .fa {
+    position: relative;
     padding: 20px;
     font-size: 10px;
     width: 30px;
