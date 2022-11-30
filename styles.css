@@ -169,7 +169,6 @@ header .sajal_brand .name .logo-img {
     background: none;
     font-size: 25px;
     flex-wrap: wrap;
-    padding-bottom: 500px;
 }
 
 @media screen and (max-width: 600px) {
@@ -228,7 +227,7 @@ ul {
     column-count: 4;
     column-gap: 100px;
     margin-left: 700px;
-    margin-top: -250px;
+    margin-top: -200px;
 }
 
 @media screen and (max-width: 600px) {
